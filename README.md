@@ -250,8 +250,4 @@ By combining demographic, behavioral, and balance insights, the dashboard equips
 
 📎 References & Appendices
 
-Simulated banking churn dataset
 
-Microsoft Excel documentation
-
-Dashboard design and data visualization best practices
